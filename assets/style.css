@@ -1,0 +1,11 @@
+.css-selector {
+    background: linear-gradient(196deg, #000000, #3200a0, #000adc);
+    background-size: 600% 600%;
+    animation: AnimationName 46s ease infinite;
+    }
+    
+    @keyframes AnimationName {
+        0%{background-position:81% 0%}
+        50%{background-position:20% 100%}
+        100%{background-position:81% 0%}
+    }

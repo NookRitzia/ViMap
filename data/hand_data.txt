@@ -1,0 +1,1290 @@
+678, 1407, live long
+653, 1290, live long
+637, 1224, live long
+627, 1214, live long
+631, 1208, live long
+626, 1249, live long
+619, 1258, live long
+671, 1361, live long
+911, 1618, live long
+995, 1737, live long
+860, 1747, live long
+863, 1764, smile
+891, 1859, smile
+583, 830, live long
+490, 418, fist
+478, 514, fist
+470, 748, fist
+468, 908, fist
+468, 968, fist
+465, 1055, fist
+456, 1130, fist
+454, 1183, fist
+454, 1181, fist
+454, 1168, fist
+460, 1059, fist
+462, 932, fist
+465, 796, fist
+460, 644, fist
+452, 539, fist
+453, 505, fist
+444, 527, fist
+565, 863, live long
+444, 433, fist
+442, 466, fist
+444, 669, fist
+452, 883, fist
+452, 1041, fist
+447, 1167, fist
+439, 1289, fist
+434, 1383, fist
+441, 1377, fist
+441, 1336, fist
+441, 1321, fist
+449, 1114, fist
+449, 980, fist
+445, 816, fist
+442, 694, fist
+442, 611, fist
+438, 527, fist
+435, 454, fist
+430, 385, fist
+425, 340, fist
+423, 325, fist
+425, 291, fist
+426, 255, fist
+427, 247, fist
+428, 240, fist
+433, 256, fist
+435, 259, fist
+442, 13, stop
+498, 114, stop
+518, 320, stop
+610, 461, fist
+293, 679, okay
+292, 650, okay
+493, 883, smile
+492, 894, smile
+483, 937, smile
+480, 941, smile
+488, 952, smile
+470, 874, peace
+485, 852, rock
+531, 973, smile
+617, 935, peace
+585, 1107, smile
+545, 1096, smile
+570, 940, live long
+480, 230, stop
+445, 389, fist
+443, 439, fist
+441, 575, fist
+440, 705, fist
+442, 773, fist
+441, 867, fist
+440, 894, fist
+441, 912, fist
+442, 916, fist
+445, 890, fist
+446, 800, fist
+442, 675, fist
+439, 592, fist
+433, 489, fist
+428, 416, fist
+427, 378, fist
+424, 339, fist
+421, 307, fist
+419, 296, fist
+421, 289, fist
+423, 286, fist
+425, 283, fist
+428, 281, fist
+429, 264, fist
+429, 258, fist
+430, 264, fist
+429, 283, rock
+426, 276, fist
+434, 201, stop
+442, 359, live long
+91, 1252, smile
+508, 1257, smile
+493, 1288, smile
+499, 1250, smile
+492, 1263, smile
+214, 914, smile
+281, 863, thumbs down
+448, 1011, smile
+485, 1027, smile
+514, 1025, smile
+562, 985, smile
+587, 982, smile
+636, 983, smile
+663, 881, thumbs down
+577, 840, live long
+541, 585, stop
+527, 469, stop
+515, 428, stop
+507, 418, stop
+497, 463, stop
+492, 541, rock
+485, 747, fist
+484, 748, fist
+483, 751, fist
+480, 762, fist
+477, 778, fist
+471, 804, fist
+467, 838, fist
+466, 862, fist
+464, 886, fist
+464, 911, fist
+463, 943, fist
+463, 979, fist
+460, 1006, fist
+454, 1038, fist
+452, 1070, fist
+451, 1096, fist
+452, 1108, fist
+454, 1111, fist
+458, 1111, fist
+459, 1087, fist
+460, 1062, fist
+464, 1018, fist
+467, 991, fist
+465, 944, fist
+464, 899, fist
+465, 854, fist
+466, 800, fist
+465, 761, fist
+464, 728, fist
+464, 689, fist
+462, 666, fist
+459, 630, fist
+457, 610, fist
+455, 589, fist
+454, 581, fist
+454, 557, fist
+454, 546, fist
+453, 524, fist
+453, 503, fist
+453, 479, fist
+453, 462, fist
+452, 443, fist
+451, 442, fist
+451, 452, fist
+453, 452, fist
+454, 460, fist
+454, 461, fist
+454, 463, fist
+453, 473, fist
+455, 473, fist
+455, 474, fist
+456, 478, fist
+454, 482, fist
+450, 519, fist
+448, 557, fist
+445, 631, fist
+443, 711, fist
+443, 746, fist
+443, 792, fist
+441, 843, fist
+439, 900, fist
+438, 987, fist
+437, 1080, fist
+434, 1139, fist
+434, 1171, fist
+434, 1181, fist
+434, 1170, fist
+434, 1134, fist
+436, 1114, fist
+445, 1080, fist
+456, 1074, fist
+470, 1060, fist
+489, 1056, fist
+499, 1062, fist
+519, 1052, fist
+538, 1051, fist
+562, 1038, fist
+587, 1050, fist
+606, 1044, fist
+622, 1049, fist
+638, 1039, fist
+645, 1039, fist
+641, 1050, fist
+631, 1042, fist
+612, 1048, fist
+582, 1030, fist
+561, 1020, fist
+532, 991, fist
+512, 962, fist
+486, 958, fist
+453, 955, fist
+435, 960, fist
+401, 971, fist
+379, 970, fist
+351, 976, fist
+310, 961, fist
+274, 943, fist
+253, 939, fist
+224, 937, fist
+209, 939, fist
+198, 937, fist
+242, 935, fist
+284, 930, fist
+326, 907, fist
+364, 862, fist
+383, 814, fist
+391, 750, fist
+399, 658, fist
+401, 595, fist
+400, 535, fist
+400, 510, fist
+398, 526, fist
+397, 569, fist
+394, 635, fist
+390, 704, fist
+391, 774, fist
+393, 840, fist
+398, 881, fist
+400, 899, fist
+402, 895, fist
+405, 881, fist
+408, 869, fist
+410, 851, fist
+409, 817, fist
+450, 613, live long
+476, 481, stop
+523, 480, stop
+590, 552, stop
+626, 584, stop
+625, 564, stop
+587, 496, stop
+497, 404, stop
+390, 380, stop
+341, 411, live long
+331, 455, stop
+365, 468, stop
+435, 505, stop
+506, 586, stop
+586, 638, stop
+649, 612, okay
+594, 569, stop
+524, 568, stop
+513, 581, stop
+519, 611, live long
+538, 619, live long
+547, 615, live long
+551, 612, live long
+554, 612, live long
+559, 615, live long
+568, 619, live long
+574, 621, live long
+577, 621, live long
+581, 624, live long
+580, 623, live long
+582, 629, live long
+595, 630, live long
+607, 648, live long
+618, 666, live long
+626, 685, live long
+629, 688, live long
+628, 691, live long
+628, 691, live long
+627, 694, live long
+627, 692, live long
+626, 695, live long
+625, 699, live long
+626, 704, live long
+628, 706, live long
+628, 708, live long
+627, 709, live long
+626, 717, live long
+627, 721, live long
+628, 719, live long
+630, 721, live long
+637, 757, live long
+638, 835, live long
+608, 920, live long
+566, 988, live long
+496, 974, live long
+391, 820, live long
+304, 683, stop
+217, 733, okay
+213, 928, fist
+233, 940, fist
+235, 953, fist
+243, 965, fist
+272, 963, fist
+317, 955, fist
+352, 955, fist
+400, 955, fist
+428, 960, fist
+462, 953, fist
+494, 956, fist
+532, 954, fist
+573, 959, fist
+600, 943, fist
+635, 912, fist
+659, 872, fist
+655, 845, fist
+706, 852, fist
+715, 879, fist
+711, 845, fist
+715, 827, live long
+702, 578, stop
+654, 537, stop
+590, 508, stop
+444, 483, stop
+316, 543, stop
+286, 795, fist
+279, 870, fist
+295, 909, fist
+338, 923, fist
+384, 894, fist
+418, 880, fist
+459, 875, fist
+496, 877, fist
+531, 874, fist
+562, 872, fist
+590, 889, fist
+619, 888, fist
+643, 887, fist
+653, 876, fist
+665, 891, fist
+694, 817, fist
+710, 745, live long
+669, 530, stop
+507, 487, stop
+379, 510, live long
+284, 559, stop
+212, 861, rock
+223, 937, fist
+233, 970, fist
+252, 976, fist
+293, 983, fist
+324, 980, fist
+372, 964, fist
+414, 967, fist
+439, 964, fist
+466, 959, fist
+494, 961, fist
+513, 970, fist
+544, 972, fist
+564, 976, fist
+594, 976, fist
+620, 979, fist
+643, 981, fist
+653, 968, fist
+656, 956, fist
+664, 793, okay
+687, 614, stop
+652, 574, stop
+576, 525, stop
+427, 515, stop
+295, 820, rock
+282, 944, fist
+286, 972, fist
+316, 985, fist
+363, 984, fist
+411, 982, fist
+454, 986, fist
+488, 982, fist
+508, 974, fist
+535, 963, fist
+556, 968, fist
+578, 965, fist
+594, 964, fist
+611, 967, fist
+627, 984, fist
+639, 995, fist
+650, 1006, fist
+657, 1018, fist
+658, 1023, fist
+657, 992, fist
+667, 802, okay
+654, 600, stop
+607, 570, stop
+533, 550, stop
+468, 556, stop
+430, 592, live long
+432, 599, live long
+434, 625, live long
+425, 1018, fist
+568, 803, live long
+544, 982, fist
+538, 990, fist
+485, 996, fist
+393, 981, fist
+285, 967, fist
+226, 951, fist
+179, 937, fist
+155, 941, fist
+133, 951, fist
+78, 895, rock
+94, 728, okay
+229, 908, okay
+460, 482, stop
+594, 868, fist
+556, 991, fist
+412, 1024, fist
+318, 980, fist
+251, 918, fist
+164, 878, fist
+118, 890, fist
+94, 883, fist
+50, 795, rock
+68, 677, okay
+149, 626, stop
+397, 494, stop
+568, 634, okay
+605, 944, fist
+587, 1045, fist
+550, 1058, fist
+506, 1043, fist
+433, 1006, fist
+384, 980, fist
+313, 945, fist
+271, 951, fist
+191, 910, fist
+157, 895, fist
+131, 900, fist
+130, 895, fist
+106, 817, rock
+169, 656, okay
+249, 623, stop
+438, 516, stop
+488, 738, okay
+569, 900, fist
+601, 1024, fist
+588, 1081, fist
+533, 1099, fist
+492, 1100, fist
+421, 1094, fist
+365, 1082, fist
+324, 1053, fist
+296, 1023, fist
+265, 987, fist
+239, 930, fist
+222, 900, fist
+218, 881, fist
+200, 852, fist
+211, 635, stop
+291, 597, stop
+353, 671, live long
+465, 900, live long
+505, 1238, fist
+505, 1323, fist
+431, 1273, fist
+466, 1187, fist
+456, 1036, fist
+443, 924, fist
+433, 814, fist
+428, 735, fist
+420, 648, fist
+414, 573, fist
+413, 536, fist
+412, 507, fist
+413, 507, fist
+414, 511, fist
+408, 479, fist
+432, 324, stop
+466, 350, stop
+474, 492, live long
+465, 628, live long
+445, 825, live long
+447, 1190, fist
+457, 1335, fist
+454, 1340, fist
+457, 1331, fist
+455, 1314, fist
+462, 1161, fist
+458, 1046, fist
+458, 958, fist
+456, 882, fist
+449, 766, fist
+444, 701, fist
+438, 606, fist
+433, 564, fist
+430, 552, fist
+430, 551, fist
+430, 563, fist
+432, 600, fist
+433, 640, fist
+436, 713, fist
+435, 809, fist
+432, 890, fist
+428, 994, fist
+421, 1172, fist
+420, 1316, fist
+422, 1360, fist
+475, 1158, call me
+445, 912, live long
+458, 722, fist
+462, 725, fist
+453, 780, fist
+447, 856, fist
+442, 949, fist
+441, 1082, fist
+443, 1209, fist
+447, 1293, fist
+448, 1329, fist
+449, 1343, fist
+457, 1363, fist
+454, 1371, fist
+444, 1324, fist
+443, 1343, fist
+441, 1348, fist
+436, 1319, fist
+439, 1364, fist
+446, 1384, fist
+468, 1095, live long
+432, 1001, okay
+427, 1021, okay
+429, 1023, okay
+445, 987, okay
+458, 909, live long
+458, 809, live long
+446, 792, okay
+455, 897, fist
+452, 904, fist
+449, 958, fist
+448, 1013, fist
+448, 1100, fist
+446, 1146, fist
+448, 1178, fist
+448, 1192, fist
+451, 1197, fist
+458, 1182, fist
+458, 1179, fist
+463, 1168, fist
+462, 1168, fist
+465, 1177, fist
+469, 1183, fist
+476, 1190, fist
+485, 1202, fist
+492, 1223, fist
+499, 1286, fist
+504, 1314, fist
+506, 1332, fist
+513, 1331, fist
+508, 1329, fist
+486, 1339, fist
+461, 1311, fist
+417, 1298, fist
+395, 1226, fist
+370, 1207, fist
+336, 1186, fist
+317, 1175, fist
+283, 1152, fist
+250, 1128, fist
+224, 1116, fist
+187, 1128, fist
+136, 1061, okay
+149, 972, okay
+233, 958, okay
+391, 761, live long
+439, 842, okay
+496, 966, fist
+572, 1013, fist
+583, 1066, fist
+568, 1099, fist
+546, 1104, fist
+511, 1103, fist
+470, 1087, fist
+424, 1071, fist
+397, 1060, fist
+318, 1021, fist
+285, 999, fist
+257, 971, fist
+225, 954, fist
+193, 946, fist
+162, 943, fist
+135, 938, fist
+90, 815, okay
+130, 734, okay
+203, 746, okay
+294, 715, okay
+426, 711, live long
+496, 818, live long
+556, 973, fist
+601, 1072, fist
+605, 1132, fist
+586, 1133, fist
+544, 1131, fist
+512, 1112, fist
+466, 1098, fist
+419, 1075, fist
+371, 1058, fist
+323, 1036, fist
+282, 996, fist
+241, 958, fist
+207, 926, fist
+193, 909, fist
+171, 883, fist
+163, 871, fist
+154, 856, fist
+149, 857, fist
+137, 832, fist
+127, 710, okay
+192, 590, stop
+254, 570, stop
+274, 686, stop
+487, 567, live long
+530, 597, live long
+575, 737, rock
+582, 991, fist
+583, 1047, fist
+574, 1067, fist
+544, 1058, fist
+519, 1041, fist
+469, 1010, fist
+417, 967, fist
+388, 939, fist
+345, 898, fist
+323, 874, fist
+303, 860, fist
+287, 851, fist
+275, 843, fist
+274, 841, fist
+264, 855, fist
+238, 783, okay
+616, 1019, smile
+514, 1046, thumbs down
+482, 1088, thumbs down
+195, 995, call me
+186, 1053, smile
+182, 1048, smile
+521, 1147, thumbs down
+368, 1215, thumbs down
+324, 1093, smile
+328, 818, okay
+337, 829, okay
+342, 819, okay
+333, 793, okay
+322, 777, okay
+313, 790, okay
+306, 781, okay
+301, 799, okay
+294, 831, okay
+296, 847, okay
+291, 857, okay
+291, 859, okay
+292, 848, okay
+290, 852, okay
+289, 862, thumbs down
+294, 880, thumbs down
+287, 928, okay
+299, 942, thumbs down
+306, 956, thumbs down
+298, 943, thumbs down
+434, 823, thumbs down
+441, 963, smile
+456, 820, okay
+449, 930, okay
+232, 951, smile
+262, 934, okay
+267, 937, okay
+268, 938, okay
+261, 949, okay
+259, 959, okay
+256, 964, okay
+255, 980, okay
+251, 975, okay
+260, 974, okay
+266, 1000, okay
+252, 1042, okay
+710, 1270, smile
+730, 1245, smile
+725, 1211, smile
+705, 1168, smile
+688, 1188, smile
+681, 1228, smile
+681, 1282, smile
+691, 1316, smile
+681, 1335, smile
+683, 1294, smile
+674, 1238, smile
+679, 1262, smile
+672, 1289, smile
+672, 1278, smile
+668, 1294, smile
+667, 1293, smile
+663, 1295, smile
+663, 1292, smile
+660, 1299, smile
+655, 1267, smile
+303, 757, okay
+482, 987, smile
+477, 743, call me
+473, 693, call me
+472, 717, call me
+476, 741, call me
+479, 747, call me
+482, 753, call me
+479, 739, call me
+490, 759, call me
+501, 775, call me
+509, 776, call me
+547, 830, call me
+567, 858, call me
+362, 646, thumbs down
+369, 656, thumbs down
+642, 959, call me
+439, 837, thumbs down
+465, 872, live long
+476, 1046, fist
+329, 1320, smile
+320, 1272, smile
+553, 1088, call me
+637, 1040, thumbs down
+440, 1145, fist
+450, 344, stop
+488, 252, stop
+436, 283, stop
+383, 396, stop
+478, 375, stop
+568, 395, stop
+554, 425, stop
+504, 441, live long
+501, 460, live long
+509, 457, stop
+516, 451, stop
+519, 449, stop
+527, 433, stop
+536, 426, stop
+551, 435, stop
+561, 456, stop
+572, 494, live long
+573, 508, live long
+575, 516, live long
+570, 516, live long
+567, 517, live long
+567, 517, live long
+567, 514, live long
+566, 512, live long
+565, 511, live long
+565, 509, live long
+564, 511, live long
+561, 508, live long
+561, 491, live long
+560, 499, live long
+560, 508, live long
+558, 513, live long
+554, 516, live long
+552, 509, live long
+552, 507, live long
+553, 504, live long
+552, 503, live long
+551, 501, live long
+550, 501, live long
+549, 496, live long
+548, 493, live long
+545, 494, live long
+540, 491, live long
+541, 489, live long
+541, 483, live long
+537, 486, live long
+536, 488, live long
+535, 485, live long
+536, 487, live long
+539, 492, live long
+546, 502, live long
+551, 493, live long
+506, 441, stop
+419, 360, stop
+390, 334, stop
+396, 343, stop
+391, 390, stop
+377, 423, stop
+351, 437, stop
+352, 781, fist
+348, 828, fist
+347, 864, fist
+353, 870, fist
+371, 881, fist
+392, 879, fist
+411, 867, fist
+426, 863, fist
+439, 847, fist
+448, 844, fist
+463, 832, fist
+473, 831, fist
+487, 822, fist
+511, 811, fist
+532, 795, fist
+545, 790, fist
+557, 786, fist
+576, 773, fist
+591, 757, fist
+606, 768, fist
+616, 772, fist
+618, 775, fist
+616, 784, fist
+609, 749, fist
+654, 511, stop
+639, 400, stop
+554, 346, stop
+487, 330, stop
+385, 360, stop
+294, 415, stop
+238, 541, okay
+239, 772, fist
+237, 791, fist
+245, 791, fist
+258, 793, fist
+275, 794, fist
+305, 794, fist
+330, 789, fist
+362, 778, fist
+382, 777, fist
+397, 782, fist
+425, 789, fist
+454, 798, fist
+478, 786, fist
+495, 783, fist
+512, 779, fist
+531, 778, fist
+559, 766, fist
+576, 759, fist
+600, 755, fist
+624, 759, fist
+646, 768, fist
+653, 758, fist
+654, 759, fist
+664, 756, fist
+662, 635, fist
+696, 508, stop
+625, 402, stop
+438, 391, stop
+296, 616, okay
+275, 770, fist
+254, 796, fist
+250, 814, fist
+255, 832, fist
+276, 821, fist
+292, 823, fist
+321, 833, fist
+343, 821, fist
+380, 817, fist
+403, 806, fist
+424, 800, fist
+457, 796, fist
+489, 802, fist
+517, 815, fist
+550, 821, fist
+578, 825, fist
+600, 847, fist
+612, 856, fist
+626, 858, fist
+633, 839, fist
+678, 604, live long
+651, 463, stop
+560, 369, stop
+429, 326, stop
+262, 705, fist
+256, 732, fist
+266, 745, fist
+297, 763, fist
+341, 790, fist
+388, 807, fist
+415, 835, fist
+442, 883, fist
+458, 902, fist
+466, 923, fist
+466, 957, fist
+462, 990, fist
+463, 1030, fist
+464, 1067, fist
+467, 1114, fist
+472, 1150, fist
+478, 1153, fist
+486, 1167, fist
+498, 1157, fist
+509, 1149, fist
+524, 1133, fist
+534, 1127, fist
+544, 1117, fist
+553, 1106, fist
+562, 1103, fist
+570, 1091, fist
+584, 1077, fist
+589, 1060, fist
+600, 1057, fist
+610, 1046, fist
+615, 1045, fist
+617, 1046, fist
+616, 1041, fist
+617, 1038, fist
+650, 750, live long
+612, 667, live long
+556, 707, live long
+516, 817, live long
+507, 909, live long
+518, 926, live long
+540, 922, live long
+571, 1015, live long
+426, 1069, rock
+705, 1104, thumbs up
+647, 471, stop
+422, 377, stop
+323, 771, fist
+348, 847, fist
+396, 865, fist
+459, 860, fist
+511, 836, fist
+571, 802, fist
+618, 816, fist
+665, 871, fist
+605, 433, stop
+300, 539, okay
+268, 896, fist
+285, 905, fist
+350, 883, fist
+465, 834, fist
+526, 828, fist
+569, 846, fist
+617, 835, fist
+642, 817, fist
+662, 486, stop
+599, 404, stop
+447, 401, stop
+284, 802, fist
+321, 795, fist
+363, 792, fist
+404, 789, fist
+447, 801, fist
+472, 800, fist
+509, 809, fist
+531, 811, fist
+567, 808, fist
+600, 813, fist
+630, 784, fist
+654, 781, fist
+677, 750, fist
+661, 405, stop
+618, 429, stop
+469, 400, stop
+315, 465, live long
+257, 716, rock
+256, 799, fist
+258, 815, fist
+279, 813, fist
+306, 805, fist
+337, 790, fist
+355, 783, fist
+378, 785, fist
+413, 778, fist
+453, 784, fist
+494, 783, fist
+525, 773, fist
+566, 776, fist
+606, 767, fist
+646, 757, fist
+662, 752, fist
+685, 773, fist
+689, 774, fist
+701, 754, fist
+683, 681, fist
+688, 608, fist
+667, 545, rock
+628, 499, rock
+592, 455, rock
+560, 440, live long
+500, 518, rock
+468, 609, fist
+421, 672, fist
+382, 703, fist
+351, 732, fist
+346, 745, fist
+367, 733, fist
+414, 707, fist
+456, 722, fist
+502, 721, fist
+534, 708, fist
+559, 699, fist
+585, 679, fist
+607, 669, fist
+622, 666, fist
+647, 676, fist
+659, 664, fist
+660, 566, fist
+684, 401, stop
+625, 348, stop
+446, 343, stop
+332, 682, fist
+307, 794, fist
+288, 851, fist
+296, 869, fist
+323, 871, fist
+353, 871, fist
+387, 873, fist
+403, 864, fist
+432, 841, fist
+459, 824, fist
+477, 811, fist
+504, 801, fist
+526, 807, fist
+539, 816, fist
+562, 821, fist
+576, 838, fist
+601, 860, fist
+622, 885, fist
+635, 897, fist
+646, 909, fist
+654, 933, fist
+660, 967, fist
+666, 1000, fist
+668, 1008, fist
+667, 1019, fist
+666, 1014, fist
+664, 1005, fist
+666, 983, fist
+672, 959, fist
+678, 945, fist
+683, 928, fist
+688, 926, fist
+691, 933, fist
+693, 927, fist
+695, 932, fist
+699, 889, fist
+712, 665, live long
+700, 582, stop
+634, 532, stop
+533, 841, fist
+515, 856, fist
+505, 878, fist
+478, 911, fist
+453, 916, fist
+421, 887, fist
+403, 839, fist
+387, 775, fist
+389, 719, fist
+401, 674, fist
+412, 655, fist
+429, 648, fist
+450, 652, fist
+478, 674, fist
+498, 689, fist
+522, 729, fist
+534, 777, fist
+525, 786, fist
+509, 786, fist
+488, 764, fist
+448, 734, fist
+409, 705, fist
+377, 676, fist
+352, 642, fist
+337, 622, fist
+314, 580, fist
+301, 557, fist
+294, 526, fist
+288, 482, fist
+283, 462, fist
+273, 288, stop
+335, 266, stop
+382, 377, live long
+424, 495, live long
+473, 729, fist
+507, 836, fist
+532, 893, fist
+543, 938, fist
+523, 924, fist
+500, 897, fist
+473, 866, fist
+435, 819, fist
+403, 775, fist
+386, 755, fist
+366, 721, fist
+352, 703, fist
+329, 668, fist
+310, 624, fist
+286, 579, fist
+258, 540, fist
+232, 498, fist
+217, 484, fist
+205, 473, fist
+190, 460, fist
+196, 254, stop
+240, 242, stop
+276, 254, stop
+329, 345, okay
+396, 585, fist
+442, 704, fist
+476, 799, fist
+498, 871, fist
+513, 929, fist
+526, 964, fist
+508, 941, fist
+488, 888, fist
+464, 842, fist
+423, 807, fist
+392, 766, fist
+375, 752, fist
+365, 733, fist
+346, 719, fist
+335, 707, fist
+315, 689, fist
+299, 669, fist
+279, 658, fist
+248, 655, fist
+218, 658, fist
+197, 667, fist
+186, 668, fist
+174, 675, fist
+168, 667, fist
+171, 673, fist
+152, 528, rock
+193, 427, stop
+461, 913, fist
+486, 1012, fist
+486, 1039, fist
+468, 1048, fist
+433, 1042, fist
+398, 1041, fist
+369, 1031, fist
+347, 1022, fist
+336, 1012, fist
+320, 1009, fist
+305, 1006, fist
+288, 1012, fist
+277, 1028, fist
+274, 1049, fist
+277, 1054, fist
+279, 1054, fist
+281, 1056, fist
+281, 1056, fist
+283, 1063, fist
+285, 1057, fist
+288, 1054, fist
+289, 1053, fist
+288, 1052, fist
+286, 1049, fist
+287, 1050, fist
+294, 1037, fist
+299, 1030, fist
+304, 1026, fist
+305, 1026, fist
+301, 1026, fist
+294, 1032, fist
+289, 1042, fist
+260, 975, okay
+282, 827, okay
+362, 699, live long
+488, 614, live long
+556, 748, okay
+567, 948, fist
+566, 985, fist
+535, 997, fist
+490, 1013, fist
+439, 1041, fist
+389, 1097, fist
+362, 1147, fist
+348, 1179, fist
+344, 1200, fist
+347, 1202, fist
+350, 1190, fist
+356, 1181, fist
+359, 1166, fist
+366, 1148, fist
+375, 1125, fist
+384, 1098, fist
+389, 1092, fist
+390, 1095, fist
+390, 1096, fist
+398, 1086, fist
+427, 1052, fist
+472, 1006, fist
+511, 960, fist
+536, 938, fist
+543, 939, fist
+549, 933, fist
+563, 925, fist
+591, 929, fist
+609, 939, fist
+640, 847, fist
+694, 797, okay
+700, 820, okay
+689, 824, okay
+674, 823, okay
+665, 821, okay
+628, 789, okay
+577, 829, okay
+498, 938, fist
+447, 967, fist
+389, 1008, fist
+394, 1061, fist
+392, 1119, fist
+436, 1121, fist
+480, 1129, fist
+518, 1115, fist
+553, 1109, fist
+579, 1107, fist
+590, 1095, fist
+605, 1088, fist
+619, 1078, fist
+639, 1072, fist
+656, 1085, fist
+733, 983, live long
+737, 980, live long
+737, 968, live long
+705, 910, live long
+601, 767, live long
+399, 881, okay
+348, 1057, fist
+325, 1075, fist
+319, 1101, fist
+333, 1111, fist
+348, 1109, fist
+378, 1097, fist
+413, 1080, fist
+453, 1065, fist
+479, 1059, fist
+501, 1061, fist
+529, 1068, fist
+548, 1081, fist
+576, 1102, fist
+605, 1091, fist
+625, 1077, fist
+644, 1064, fist
+678, 1058, fist
+705, 1058, fist
+720, 1023, okay
+767, 984, okay
+756, 927, okay
+690, 853, live long
+517, 781, rock
+417, 940, fist
+371, 1031, fist
+390, 1052, fist
+423, 1069, fist
+475, 1070, fist
+517, 1069, fist
+550, 1077, fist
+586, 1098, fist
+607, 1100, fist
+618, 1092, fist
+628, 1072, fist
+636, 1062, fist
+647, 1056, fist
+659, 1045, fist
+683, 964, fist
+720, 884, okay
+718, 922, live long
+707, 1033, live long
+705, 1161, live long
+667, 1357, smile
+637, 1409, smile
+328, 1077, smile
+341, 890, rock
+330, 888, fist
+329, 889, rock
+331, 923, rock
+343, 974, fist
+290, 1369, smile
+296, 1114, rock
+300, 1103, rock
+307, 1090, rock
+303, 1107, rock
+299, 1148, rock
+288, 1302, fist
+576, 961, thumbs down
+658, 1118, thumbs down
