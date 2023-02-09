@@ -1,62 +1,37 @@
-# HackViolet2023
-HackViolet is a 24-hour hackathon hosted by The Association of Women in Computing, a student-run, non-profit organization at Virginia Tech. Through the event, we encourage all individuals to learn about and become change agents for the gender gap in technology by innovating and inspiring with code.
-# Developers
-  - ***Edward Stan "NookRitzia"*** :fire:	
-  - ***Maximo Xavier de Leon***
-  - ***Prapti Singh***
-  - ***Gurkirat Singh***
-  
-# What ViMap Does :earth_americas:
-**ViMap** is an application that displays aggregated data on a 3-dimensional globe that has the ability to be controlled with 
-a user's hand movement captured from a webcam.
+# PyOpenGLobe
+A 3D OpenGL rendered Sphere with an applied texture in a PyGame window. A personal project to get acquainted with basics of OpenGL and PyGame. I opted to use PyGame to display the sphere, instead of PyOpenGL itself, since this allowed me to take user input to rotate the sphere and zoom in and out.
 
-# Why Was ViMap Developed :rocket:
-**ViMap** was developed to visualize various data sets 3-dimensionally without the need to use any computer input. We 
-wanted to allow our data-visualization to be accessible to as many people as possible
+## Usage
+Run the globe.py in whichever way you usually run python files.
 
-# How Did We Develop ViMap :construction:
-**ViMap** was developed using a pre-trained *OpenCV* model to capture hand movement and gestures paired with a *flask* app that utilizes *plotly-dash*
-to create a viewable 3-dimensional globe.
+## Features
+* Displays OpenGL rendered sphere in PyGame window
+* Sphere has a spherically-mapped Earth texture
+* Rotate sphere with arrow keys or by clicking and dragging with mouse
+* Zoom in and out with the mouse wheel
 
-# Challenges We Ran Into :stop_sign:
-Throughout the development of **ViMap** our team encountered issues with
-- Creating and joining multiple threads
-- Optimizing *OpenCV* Hand Tracker performance
-- Optimizing the web application
-- Creating a a transfer-of-data connection between the main and secondary threads
+## Screenshots
+<img width="300" alt="screenshot" src="https://user-images.githubusercontent.com/40459599/53302550-80756c00-3857-11e9-9474-9cee0f51d19c.png">
 
-# Accomplishments We Are Proud Of :heavy_check_mark:
-Throughout the development of **ViMap** our team came together to accomplish
-- Integrating I/O
-- Addition of datasets
-- Rendering the globe figure
-- Ability to control the globe with hand movement and gestures
+## Requirements
+* Python 3
+* PyGame
+* PyOpenGL
+* PIL or Pillow
+* Numpy
 
-# What We Learned :computer:
-The development of **ViMap** allowed us to refine and learn skills various technical skills
-- Implementing machine learning models
-- Multithreading
-- Web application using *flask*
-- Parsing economic data
+## Some Notes on What I Learned
+I learned a lot about how to render 3D objects in OpenGL. Creating the sphere and displaying it in a PyGame window was relatively straightforward. The challenge was applying a texture to it. I also struggled with the click and drag code that allows the user to rotate the sphere using the mouse. Some very useful StackOverflow answers helped me to implement these features.
 
-# What's Next for ViMap :world_map:
-Our development team expects to implement additional datasets, real-time entity tracking, and further optimizing the *OpenCV* model
+I learned how PyGame intercepts user input as 'events' and how to use these to control the way the sphere is rendered. Initially, this program ran very slowly on my computer as I had not properly optimised the code and it was necessarily rerendering the sphere each frame. After some optimisations, the program now runs properly and the sphere can be interacted with smoothly.
 
-# How To Start :snake:
-Make sure you download the following Python libraries 
-- *flask*
-- *dash*
-- *dash-bootstrap-components*
-- *tensorflow*
-- *opencv-python*
-- *mediapipe*
+I am now confident with rendering 3D object with PyOpenGL. This code could be extended into a full 3D World Map, or to display planet maps in 3D, useful in Astronomy, my undergraduate degree subject.
 
-Then
-- Run app.py
-- Open the *flask* web-application
-- Move your hand around in a ***closed fist*** gesture to rotate the globe
-- Additionally, the globe may be rotated using the buttons on the web-application
+## License
+This project is licensed under the terms of the MIT license. Do whatever you want with it!
 
----
-
-# [***Product Demo Video***](https://www.youtube.com/watch?v=uT_yA7EssrU)
+## Acknowledgements
+* A great tutorial that I used to get started with PyOpenGL: https://www.youtube.com/watch?v=R4n4NyDG2hI
+* Texturing a sphere from: https://stackoverflow.com/questions/42986754/pyopengl-sphere-with-texture?answertab=oldest#tab-top 
+* Click and drag from: http://goldsequence.blogspot.com/2017/04/using-mouse-for-object-zoom-inzoom.html
+* Texture image from: http://planetpixelemporium.com/earth.html
